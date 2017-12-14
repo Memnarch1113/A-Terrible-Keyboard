@@ -1,0 +1,2 @@
+Not sure that the crystal got associated right
+Not sure that the resistors got associated right (I think they did)
